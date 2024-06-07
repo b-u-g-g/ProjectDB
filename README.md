@@ -1,6 +1,4 @@
-Certainly! Here's a detailed description for your Student Result Database Management System project, suitable for a GitHub repository:
 
----
 
 ## Student Result Database Management System
 
